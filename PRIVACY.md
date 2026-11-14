@@ -36,7 +36,7 @@ When you create a Photo Pet, your photo is processed entirely inside the extensi
 Pet Pixi runs on web pages only to draw your pets on top of them. It does not read, collect or transmit page content, web addresses, browsing history, or anything you type.
 
 ## Purchases (Pet Pixi Pro)
-Pet Pixi Pro (US$2.99, one-time) is sold through Lemon Squeezy, which processes your payment and email under [its own privacy policy](https://www.lemonsqueezy.com/privacy). The extension contacts `api.lemonsqueezy.com` only to activate and occasionally re-check your license key. When you open the checkout from the extension (with statistics on), the random install id is attached so purchases can be counted per country. We do not receive or store your name, email or card details from Lemon Squeezy.
+Pet Pixi Pro (an optional one-time purchase) is sold through Lemon Squeezy, which processes your payment and email under [its own privacy policy](https://www.lemonsqueezy.com/privacy). The extension contacts `api.lemonsqueezy.com` only to activate and occasionally re-check your license key. When you open the checkout from the extension (with statistics on), the random install id is attached so purchases can be counted per country. We do not receive or store your name, email or card details from Lemon Squeezy.
 
 ## Children
 Pet Pixi does not knowingly collect personal information from anyone, including children.

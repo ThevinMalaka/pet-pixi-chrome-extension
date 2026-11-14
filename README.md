@@ -13,7 +13,7 @@
   <img alt="27 pets" src="https://img.shields.io/badge/pets-27-ff5d8f">
   <img alt="No sign-in" src="https://img.shields.io/badge/sign--in-none-2b1d33">
   <img alt="Privacy first" src="https://img.shields.io/badge/privacy-first-5cc45a">
-  <img alt="Pro US$2.99 one-time" src="https://img.shields.io/badge/Pro-US%242.99%20one--time-ffcc33?labelColor=2b1d33">
+  <img alt="Pro: one-time purchase" src="https://img.shields.io/badge/Pro-one--time%20purchase-ffcc33?labelColor=2b1d33">
 </p>
 
 <p align="center">
@@ -135,7 +135,7 @@ Each pet can earn up to **30 XP a day** from feeding, playing and cuddles. The p
 
 ## ⭐ Pet Pixi Pro — Photo Pet
 
-> **US$2.99 · one-time payment · no subscription · no account**
+> **One-time purchase · no subscription · no account** — everything else in Pet Pixi is free.
 
 Turn a photo of **your real pet** into a Pet Pixi that lives in your tabs.
 
@@ -144,9 +144,11 @@ Turn a photo of **your real pet** into a Pet Pixi that lives in your tabs.
   - **Pixel art** — converted to pixel art that matches the other pets.
 - ✨ **Best result:** a **PNG with a transparent background** (cut your pet out first with your phone's "lift subject" / "remove background" tool). Ordinary photos work too — plain backgrounds are removed automatically.
 - 🔒 **Your photo never leaves your computer.** Everything is processed inside the extension; only the small finished pet is kept.
+- 🐕 **Walks like your pet:** tell it what kind of pet it is — dog, cat, bunny, bird, flying, duck, hamster, turtle or snake/fish — and it trots, hops, struts, flies or slithers to match. You can change it later.
+- 🐾 **A bigger family:** keep up to **10 pets** instead of 5.
 
 **How buying works** — payments by [Lemon Squeezy](https://www.lemonsqueezy.com), who handle checkout, receipts, taxes and refunds:
-1. Open the Pet Pixi popup → **Photo Pet ★** → **Unlock Photo Pet — $2.99**.
+1. Open the Pet Pixi popup → **Photo Pet ★** → **Unlock Photo Pet** (the current price is shown there).
 2. Pay on the secure Lemon Squeezy checkout. Your **license key** arrives by email.
 3. Paste the key into the popup → **Activate**. Done — no sign-up, no password.
 
@@ -238,7 +240,7 @@ Bond grows from daily care, not fast clicking: full pets refuse food, meals give
 <details>
 <summary><b>Is Pro a subscription? Can I get a refund?</b></summary>
 
-Pro is a **one-time US$2.99** payment. Payments, receipts and refunds are handled by Lemon Squeezy — reply to your receipt email or visit <a href="https://github.com/ThevinMalaka/pet-pixi-chrome-extension">github.com/ThevinMalaka/pet-pixi-chrome-extension</a>.
+Pro is a **one-time** purchase — no subscription. Payments, receipts and refunds are handled by Lemon Squeezy — reply to your receipt email or visit <a href="https://github.com/ThevinMalaka/pet-pixi-chrome-extension">github.com/ThevinMalaka/pet-pixi-chrome-extension</a>.
 </details>
 
 <details>
