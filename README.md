@@ -20,8 +20,9 @@
   <a href="https://YOUR-WEBSITE.com"><b>🌐 Website</b></a> ·
   <a href="#-install">Install</a> ·
   <a href="#-features">Features</a> ·
+  <a href="#-wardrobe">Wardrobe</a> ·
   <a href="#-bond-levels--daily-care">Bond levels</a> ·
-  <a href="#-pet-pixi-pro--photo-pet">Pro</a> ·
+  <a href="#-pet-pixi-pro--photo-pet--wardrobe">Pro</a> ·
   <a href="#-privacy">Privacy</a> ·
   <a href="#-faq">FAQ</a>
 </p>
@@ -30,7 +31,7 @@
 
 ## 🐾 Meet the pets
 
-27 hand-made pixel friends. Pick one (or up to **five**) and they follow you from tab to tab.
+27 hand-made pixel friends. Pick one (or up to **five** — ten with Pro) and they follow you from tab to tab.
 
 <p align="center">
   <img src="assets/pets.svg" alt="All 27 Pet Pixi pets: bunny, cat, chicken, Clippo, cockatiel, crab, dog, dino, Finley, fox, frog, horse, Mod, monkey, Morph, panda, raccoon, rat, Rocky, rubber duck, skeleton, snail, snake, squirrel, Mossling, turtle and Zappy" width="100%">
@@ -88,10 +89,21 @@ After **8 pm** pets slow down, glow softly, fall asleep in little **nightcaps** 
 ### 🧭 Free roam *(optional)*
 Turn it on and pets explore **every edge of the window** — up the walls and upside down along the top. Food and balls still land on the floor, so pets walk all the way round to reach them.
 
+### 👗 Wardrobe
+<p align="center">
+  <img src="assets/wardrobe.svg" alt="Pets switching looks: a cat in a tuxedo and top hat, a cowboy dog, a dino wizard with a cape, a bunny with butterfly wings and a panda in a bee costume" width="100%">
+</p>
+
+Dress your pets in the **Wardrobe** tab: pick a pet, then tap through **Hats · Face · Neck · Outfits · Back · Coats**. Every tile shows *your* pet wearing the item, and the big preview turns around and tries on any look. Feeling lucky? Hit **🎲 Surprise me**.
+
+- **Free bond rewards** — one new item at every bond level: 🎀 bow · 🔔 collar & bell · 🌸 flower · 🧣 bandana · 🥳 party hat · 😊 blush · 👑 crown · 🧶 scarf · ⭐ star.
+- **With Pro** — 81 colour coats, outfits (hoodie, striped sweater, raincoat, denim jacket, tuxedo, bumblebee, ghost), wings (angel, bat, butterfly, fairy), a hero cape and a balloon, bow ties, pearls, flower leis and gold chains, 17 hats from wizard to pirate, and shades, monocles and eye patches.
+- Everything fits all 27 pets, and your pets wear their look on every website.
+
 ### 🎨 Make it yours
 - **Pet size** from tiny to big.
 - **Pixel style:** *HD pixels* (smooth, shaded, sparkly eyes) or *Retro* (chunky classic pixels).
-- **Accessories** unlocked by bond level: 🎀 bow · 🌸 flower · 🥳 party hat · 👑 crown · ⭐ star.
+- **Popup theme:** follows your computer's light or dark mode, or pick one.
 - **Name** every pet and see how many days you've been together.
 
 ### 🙈 Hide anytime
@@ -122,22 +134,24 @@ Each pet can earn up to **30 XP a day** from feeding, playing and cuddles. The p
 |---|---|---|---|
 | 1 | New friend | 0 | — |
 | 2 | Buddy | 15 | 🎀 Bow |
-| 3 | Pal | 45 | — |
+| 3 | Pal | 45 | 🔔 Collar & bell |
 | 4 | Close friend | 90 | 🌸 Flower |
-| 5 | Best friend | 150 | — |
+| 5 | Best friend | 150 | 🧣 Bandana |
 | 6 | Partner | 230 | 🥳 Party hat |
-| 7 | Soulmate | 330 | — |
+| 7 | Soulmate | 330 | 😊 Blush |
 | 8 | Family | 450 | 👑 Crown |
-| 9 | Inseparable | 600 | — |
+| 9 | Inseparable | 600 | 🧶 Scarf |
 | 10 | **Legendary bond** | 800 | ⭐ Star |
+
+Bond rewards are always free. Unlocked items appear in the **Wardrobe** tab — locked ones can still be tried on in the preview.
 
 ---
 
-## ⭐ Pet Pixi Pro — Photo Pet
+## ⭐ Pet Pixi Pro — Photo Pet & Wardrobe
 
 > **One-time purchase · no subscription · no account** — everything else in Pet Pixi is free.
 
-Turn a photo of **your real pet** into a Pet Pixi that lives in your tabs.
+Turn a photo of **your real pet** into a Pet Pixi that lives in your tabs, and open the full wardrobe for every pet.
 
 - 📷 Upload a photo → choose the look you like:
   - **Original photo** — your real picture, neatly cut out with a soft white sticker edge.
@@ -145,12 +159,14 @@ Turn a photo of **your real pet** into a Pet Pixi that lives in your tabs.
 - ✨ **Best result:** a **PNG with a transparent background** (cut your pet out first with your phone's "lift subject" / "remove background" tool). Ordinary photos work too — plain backgrounds are removed automatically.
 - 🔒 **Your photo never leaves your computer.** Everything is processed inside the extension; only the small finished pet is kept.
 - 🐕 **Walks like your pet:** tell it what kind of pet it is — dog, cat, bunny, bird, flying, duck, hamster, turtle or snake/fish — and it trots, hops, struts, flies or slithers to match. You can change it later.
+- 👗 **A whole wardrobe:** 81 colour coats (black cat, golden retriever, albino rat, blue dino…), hoodies, sweaters, raincoats, tuxedos and bee or ghost costumes, angel, bat, butterfly and fairy wings, a hero cape, bow ties and pearls, 17 hats from wizard to pirate, and shades, monocles and eye patches. Try anything on in the Wardrobe tab.
+- 🎀 **Dress it your way:** drag bows, hats, flowers and the nightcap to the perfect spot on your photo, and make them bigger or smaller.
 - 🐾 **A bigger family:** keep up to **10 pets** instead of 5.
 
 **How buying works** — payments by [Lemon Squeezy](https://www.lemonsqueezy.com), who handle checkout, receipts, taxes and refunds:
-1. Open the Pet Pixi popup → **Photo Pet ★** → **Unlock Photo Pet** (the current price is shown there).
+1. Open the Pet Pixi popup → **Pro ★** → **Unlock Pro** (the current price is shown there). Or tap any ★ Pro item in the Wardrobe.
 2. Pay on the secure Lemon Squeezy checkout. Your **license key** arrives by email.
-3. Paste the key into the popup → **Activate**. Done — no sign-up, no password.
+3. Paste the key into the popup (**Pro ★** → *Already bought Pro? Enter your key*) → **Activate**. Done — no sign-up, no password.
 
 If you're offline, Pro keeps working.
 
@@ -200,7 +216,8 @@ Works in Chrome and other Chromium browsers (Edge, Brave, Opera).
 
 ## 🗺 Roadmap
 
-- [ ] Seasonal accessories (Halloween hats, winter scarves)
+- [x] A wardrobe with outfits, wings, hats and coats
+- [ ] Seasonal events (snowy days, spooky nights)
 - [ ] A little pet diary
 - [ ] Export / import your pets
 - [ ] Optional cute sounds (off by default)
