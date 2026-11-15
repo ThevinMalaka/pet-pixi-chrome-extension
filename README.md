@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://YOUR-WEBSITE.com"><img src="assets/banner.svg" alt="Pet Pixi — tiny pixel pets walking along the bottom of the browser" width="100%"></a>
+  <a href="https://github.com/ThevinMalaka/pet-pixi-chrome-extension"><img src="assets/banner.svg" alt="Pet Pixi — tiny pixel pets walking along the bottom of the browser" width="100%"></a>
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://YOUR-WEBSITE.com"><img alt="Website" src="https://img.shields.io/badge/website-pet%20pixi-ff5d8f?logo=googlechrome&logoColor=white"></a>
+  <a href="https://github.com/ThevinMalaka/pet-pixi-chrome-extension"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-pet%20pixi-ff5d8f?logo=github&logoColor=white"></a>
   <img alt="Chrome extension" src="https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white">
   <img alt="27 pets" src="https://img.shields.io/badge/pets-27-ff5d8f">
   <img alt="No sign-in" src="https://img.shields.io/badge/sign--in-none-2b1d33">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://YOUR-WEBSITE.com"><b>🌐 Website</b></a> ·
+  <a href="https://github.com/ThevinMalaka/pet-pixi-chrome-extension"><b>🌐 GitHub</b></a> ·
   <a href="#-how-to-videos">Videos</a> ·
   <a href="#-install">Install</a> ·
   <a href="#-features">Features</a> ·
@@ -224,7 +224,7 @@ Full privacy policy: **[PRIVACY.md](PRIVACY.md)**
 ## 📦 Install
 
 <p>
-  <b>Chrome Web Store:</b> <i>coming soon</i> — follow <a href="https://YOUR-WEBSITE.com">YOUR-WEBSITE.com</a> for the launch.
+  <b>Chrome Web Store:</b> <i>coming soon</i> — follow <a href="https://github.com/ThevinMalaka/pet-pixi-chrome-extension">github.com/ThevinMalaka/pet-pixi-chrome-extension</a> for the launch.
 </p>
 
 1. Click **Add to Chrome** on the Chrome Web Store page.
@@ -299,12 +299,12 @@ Right-click the page → *Hide pets on this site*, or use the pet's ✕ button. 
 
 ## 💌 Support
 
-Questions, bugs or pet ideas: **[github.com/ThevinMalaka/pet-pixi-chrome-extension](https://github.com/ThevinMalaka/pet-pixi-chrome-extension)** or open an issue here.
+Questions, bugs or pet ideas: **[github.com/ThevinMalaka/pet-pixi-chrome-extension](https://github.com/ThevinMalaka/pet-pixi-chrome-extension)** (open an issue) or email **[thevinmalaka@gmail.com](mailto:thevinmalaka@gmail.com)**.
 
 ## 📄 License
 
 © 2026 Pet Pixi. All rights reserved. The Pet Pixi name, pixel art and software may not be copied, modified, redistributed or sold without written permission.
 
 <p align="center">
-  <a href="https://YOUR-WEBSITE.com"><sub>🌐 YOUR-WEBSITE.com</sub></a> · <sub>Made with 💖 and lots of tiny pixels.</sub>
+  <a href="https://github.com/ThevinMalaka/pet-pixi-chrome-extension"><sub>🌐 github.com/ThevinMalaka/pet-pixi-chrome-extension</sub></a> · <a href="mailto:thevinmalaka@gmail.com"><sub>✉️ thevinmalaka@gmail.com</sub></a> · <sub>Made with 💖 and lots of tiny pixels.</sub>
 </p>
