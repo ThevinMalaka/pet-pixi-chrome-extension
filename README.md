@@ -18,6 +18,7 @@
 
 <p align="center">
   <a href="https://YOUR-WEBSITE.com"><b>🌐 Website</b></a> ·
+  <a href="#-how-to-videos">Videos</a> ·
   <a href="#-install">Install</a> ·
   <a href="#-features">Features</a> ·
   <a href="#-wardrobe">Wardrobe</a> ·
@@ -26,6 +27,25 @@
   <a href="#-privacy">Privacy</a> ·
   <a href="#-faq">FAQ</a>
 </p>
+
+---
+
+## 🎬 How-to videos
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="assets/howto-install.mp4"><img src="assets/howto-install.jpg" alt="Video: how to install Pet Pixi from the Chrome Web Store (1 minute)" width="100%"></a><br>
+      <b>How to install Pet Pixi</b><br>
+      <sub>Chrome Web Store → Add to Chrome → adopt your first pet → pin it</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="assets/howto-pro.mp4"><img src="assets/howto-pro.jpg" alt="Video: how to get Pet Pixi Pro — checkout, license key and activation (1 minute)" width="100%"></a><br>
+      <b>How to get Pet Pixi Pro</b><br>
+      <sub>Unlock Pro → pay by card → copy your key → paste &amp; activate</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -84,7 +104,7 @@ Pets also wander over to visit each other on their own, and meetups make both of
   <img src="assets/night.svg" alt="At night pets sleep in nightcaps, glow softly and fireflies appear" width="100%">
 </p>
 
-After **8 pm** pets slow down, glow softly, fall asleep in little **nightcaps** and fireflies come out. In the morning they wake up with a stretch and a ☀️. (Settings: *Follow clock · Always · Never*.)
+After **8 pm** pets slow down, glow softly and walk to the **bottom-right corner**, where they fall asleep side by side in little **nightcaps** while fireflies come out. In the morning they wake up with a stretch and a ☀️. (Settings: *Follow clock · Always · Never*.)
 
 ### 🧭 Free roam *(optional)*
 Turn it on and pets explore **every edge of the window** — up the walls and upside down along the top. Food and balls still land on the floor, so pets walk all the way round to reach them.
@@ -168,7 +188,9 @@ Turn a photo of **your real pet** into a Pet Pixi that lives in your tabs, and o
 2. Pay on the secure Lemon Squeezy checkout. Your **license key** arrives by email.
 3. Paste the key into the popup (**Pro ★** → *Already bought Pro? Enter your key*) → **Activate**. Done — no sign-up, no password.
 
-If you're offline, Pro keeps working.
+▶ **[Watch how it works (1 min)](assets/howto-pro.mp4)**
+
+Pet Pixi checks your key with Lemon Squeezy once a day. If you're offline, Pro keeps working (for up to 30 days without a check).
 
 ---
 
@@ -210,6 +232,7 @@ Full privacy policy: **[PRIVACY.md](PRIVACY.md)**
 3. Open any website and look down. Your new friend is already exploring. 🎉
 
 Tip: pin Pet Pixi from the 🧩 puzzle-piece menu so your pets are one click away.
+▶ **[Watch the 1-minute install video](assets/howto-install.mp4)**
 Works in Chrome and other Chromium browsers (Edge, Brave, Opera).
 
 ---
