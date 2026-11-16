@@ -1,6 +1,6 @@
 # Pet Pixi — Privacy Policy
 
-_Last updated: 15 November 2026_
+_Last updated: 16 November 2026_
 
 Pet Pixi is a Chrome extension that shows pixel pets at the bottom of your web pages. It has **no accounts and no ads**, and it **does not read or collect your browsing**.
 
@@ -36,7 +36,7 @@ When you create a Photo Pet, your photo is processed entirely inside the extensi
 Pet Pixi runs on web pages only to draw your pets on top of them. It does not read, collect or transmit page content, web addresses, browsing history, or anything you type.
 
 ## Purchases (Pet Pixi Pro)
-Pet Pixi Pro (an optional one-time purchase) is sold through Lemon Squeezy, which processes your payment and email under [its own privacy policy](https://www.lemonsqueezy.com/privacy). The extension contacts `api.lemonsqueezy.com` only to activate your license key and re-check it once a day (only the key and its Lemon Squeezy activation id are sent), so a refunded key stops unlocking Pro. When you open the checkout from the extension (with statistics on), the random install id is attached so purchases can be counted per country. We do not receive or store your name, email or card details from Lemon Squeezy.
+Pet Pixi Pro (an optional one-time purchase) is sold through Dodo Payments, the merchant of record, which processes your payment and email under [its own privacy policy](https://dodopayments.com/privacy-policy). The extension contacts `live.dodopayments.com` only to activate your license key and re-check it once a day (only the key and its Dodo Payments activation id are sent), so a refunded key stops unlocking Pro. When you open the checkout from the extension (with statistics on), the random install id is attached so purchases can be counted per country. We do not receive or store your name, email or card details from Dodo Payments.
 
 ## Children
 Pet Pixi does not knowingly collect personal information from anyone, including children.
@@ -45,4 +45,4 @@ Pet Pixi does not knowingly collect personal information from anyone, including 
 If this policy changes, the new version will be published here with a new "Last updated" date.
 
 ## Contact
-Questions about privacy: open an issue at **[github.com/ThevinMalaka/pet-pixi-chrome-extension/issues](https://github.com/ThevinMalaka/pet-pixi-chrome-extension/issues)**. GitHub issues are public, so please don't include personal details. For purchase questions, reply to your Lemon Squeezy receipt email.
+Questions about privacy: open an issue at **[github.com/ThevinMalaka/pet-pixi-chrome-extension/issues](https://github.com/ThevinMalaka/pet-pixi-chrome-extension/issues)**. GitHub issues are public, so please don't include personal details. For purchase questions, reply to your Dodo Payments receipt email.

@@ -183,14 +183,14 @@ Turn a photo of **your real pet** into a Pet Pixi that lives in your tabs, and o
 - 🎀 **Dress it your way:** drag bows, hats, flowers and the nightcap to the perfect spot on your photo, and make them bigger or smaller.
 - 🐾 **A bigger family:** keep up to **10 pets** instead of 5.
 
-**How buying works** — payments by [Lemon Squeezy](https://www.lemonsqueezy.com), who handle checkout, receipts, taxes and refunds:
+**How buying works** — payments by [Dodo Payments](https://dodopayments.com), who handle checkout, receipts, taxes and refunds:
 1. Open the Pet Pixi popup → **Pro ★** → **Unlock Pro** (the current price is shown there). Or tap any ★ Pro item in the Wardrobe.
-2. Pay on the secure Lemon Squeezy checkout. Your **license key** arrives by email.
+2. Pay on the secure Dodo Payments checkout. Your **license key** arrives by email.
 3. Paste the key into the popup (**Pro ★** → *Already bought Pro? Enter your key*) → **Activate**. Done — no sign-up, no password.
 
 ▶ **[Watch how it works (1 min)](assets/howto-pro.mp4)**
 
-Pet Pixi checks your key with Lemon Squeezy once a day. If you're offline, Pro keeps working (for up to 30 days without a check).
+Pet Pixi checks your key with Dodo Payments once a day. If you're offline, Pro keeps working (for up to 30 days without a check).
 
 ---
 
@@ -215,7 +215,7 @@ Full privacy policy: **[PRIVACY.md](PRIVACY.md)**
 | Alarms | Show the "someone is hungry" badge and send the optional daily stats ping. |
 | Scripting | Add pets to tabs that were already open when you installed. |
 | Context menus | The right-click *Hide pets…* options. |
-| `api.lemonsqueezy.com` | Activate your Pro license key. |
+| `live.dodopayments.com` | Activate your Pro license key. |
 
 </details>
 
@@ -280,7 +280,7 @@ Bond grows from daily care, not fast clicking: full pets refuse food, meals give
 <details>
 <summary><b>Is Pro a subscription? Can I get a refund?</b></summary>
 
-Pro is a **one-time** purchase — no subscription. Payments, receipts and refunds are handled by Lemon Squeezy — reply to your receipt email or visit <a href="https://github.com/ThevinMalaka/pet-pixi-chrome-extension">github.com/ThevinMalaka/pet-pixi-chrome-extension</a>.
+Pro is a **one-time** purchase — no subscription. Payments, receipts and refunds are handled by Dodo Payments — reply to your receipt email or visit <a href="https://github.com/ThevinMalaka/pet-pixi-chrome-extension">github.com/ThevinMalaka/pet-pixi-chrome-extension</a>.
 </details>
 
 <details>
