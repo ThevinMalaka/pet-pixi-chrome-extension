@@ -1,15 +1,23 @@
 <p align="center">
-  <a href="https://github.com/ThevinMalaka/pet-pixi-chrome-extension"><img src="assets/banner.svg" alt="Pet Pixi — tiny pixel pets walking along the bottom of the browser" width="100%"></a>
+  <a href="https://chromewebstore.google.com/detail/fgafahmolfgajejjdmeoimapeojnfipf?utm_source=github&utm_medium=readme"><img src="assets/banner.svg" alt="Pet Pixi Chrome extension — tiny pixel pets that live in your browser tabs, even your own pet" width="100%"></a>
 </p>
 
+<h1 align="center">Pet Pixi — Pixel Pets for Your Chrome Tabs</h1>
+
 <p align="center">
-  <b>Adopt a tiny pixel pet that lives at the bottom of every Chrome tab.</b><br>
+  <b>Tiny pixel pets that live in your tabs — even your own pet.</b><br>
+  Adopt one of 27 cute pixel pets, or turn a photo of your real dog, cat or bunny into a pixel pet that walks along the bottom of every website.<br>
   Feed it, pet it, play ball, watch it nap in a nightcap — and grow your bond a little every day.
 </p>
 
 <p align="center">
+  <a href="https://chromewebstore.google.com/detail/fgafahmolfgajejjdmeoimapeojnfipf?utm_source=github&utm_medium=readme"><img alt="Add to Chrome — it's free" src="https://img.shields.io/badge/Add%20to%20Chrome-it's%20free-ff5d8f?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4285F4" height="44"></a><br>
+  <sub>⭐ Available now on the <a href="https://chromewebstore.google.com/detail/fgafahmolfgajejjdmeoimapeojnfipf?utm_source=github&utm_medium=readme"><b>Chrome Web Store</b></a> · works in Chrome, Edge, Brave and Opera</sub>
+</p>
+
+<p align="center">
   <a href="https://github.com/ThevinMalaka/pet-pixi-chrome-extension"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-pet%20pixi-ff5d8f?logo=github&logoColor=white"></a>
-  <img alt="Chrome extension" src="https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white">
+  <a href="https://chromewebstore.google.com/detail/fgafahmolfgajejjdmeoimapeojnfipf?utm_source=github&utm_medium=readme"><img alt="Chrome Web Store" src="https://img.shields.io/badge/Chrome%20Web%20Store-available-4285F4?logo=googlechrome&logoColor=white"></a>
   <img alt="27 pets" src="https://img.shields.io/badge/pets-27-ff5d8f">
   <img alt="No sign-in" src="https://img.shields.io/badge/sign--in-none-2b1d33">
   <img alt="Privacy first" src="https://img.shields.io/badge/privacy-first-5cc45a">
@@ -17,15 +25,31 @@
 </p>
 
 <p align="center">
+  <a href="https://chromewebstore.google.com/detail/fgafahmolfgajejjdmeoimapeojnfipf?utm_source=github&utm_medium=readme"><b>🧩 Add to Chrome</b></a> ·
   <a href="https://github.com/ThevinMalaka/pet-pixi-chrome-extension"><b>🌐 GitHub</b></a> ·
   <a href="#-how-to-videos">Videos</a> ·
   <a href="#-install">Install</a> ·
   <a href="#-features">Features</a> ·
   <a href="#-wardrobe">Wardrobe</a> ·
   <a href="#-bond-levels--daily-care">Bond levels</a> ·
-  <a href="#-pet-pixi-pro--photo-pet--wardrobe">Pro</a> ·
+  <a href="#-pet-pixi-pro--photo-pet--wardrobe"><b>⭐ Pro</b></a> ·
   <a href="#-privacy">Privacy</a> ·
   <a href="#-faq">FAQ</a>
+</p>
+
+---
+
+## 🐶 What is Pet Pixi?
+
+Pet Pixi is a free **virtual pet Chrome extension**. It puts a tiny **pixel pet** at the bottom of every browser tab — a little desktop companion that walks, naps, chases balls and waits for snacks while you work, study or browse.
+
+- **Pick a pixel pet** — 27 hand-drawn friends: cat, dog, bunny, fox, panda, frog, dino, turtle, snail and more.
+- **Or bring your own pet** — upload a photo of your real dog, cat, bunny or bird and Pet Pixi turns it into a **pixel art pet** (or a cute cut-out sticker) that lives in your tabs. Your photo is processed on your computer and never uploaded. *(Photo Pet is part of [Pet Pixi Pro](#-pet-pixi-pro--photo-pet--wardrobe), a one-time purchase.)*
+- **Cozy, never needy** — pets never die, run away or get sick. No account, no sign-in, no ads.
+- **Works everywhere you browse** — Google Chrome, Microsoft Edge, Brave and Opera.
+
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/fgafahmolfgajejjdmeoimapeojnfipf?utm_source=github&utm_medium=readme"><b>🧩 Add Pet Pixi to Chrome — free</b></a>
 </p>
 
 ---
@@ -169,28 +193,85 @@ Bond rewards are always free. Unlocked items appear in the **Wardrobe** tab — 
 
 ## ⭐ Pet Pixi Pro — Photo Pet & Wardrobe
 
-> **One-time purchase · no subscription · no account** — everything else in Pet Pixi is free.
+<p align="center">
+  <b>Your pet, your style.</b> Bring your <i>real</i> pet into your browser, and dress up every pet you love.
+</p>
 
-Turn a photo of **your real pet** into a Pet Pixi that lives in your tabs, and open the full wardrobe for every pet.
+<p align="center">
+  <img src="assets/pro.jpg" alt="Pet Pixi Pro: turn a photo of your dog into a sticker or pixel-art pet, and dress pets in colour coats, outfits, wings, hats and shades" width="100%">
+</p>
 
-- 📷 Upload a photo → choose the look you like:
-  - **Original photo** — your real picture, neatly cut out with a soft white sticker edge.
-  - **Pixel art** — converted to pixel art that matches the other pets.
-- ✨ **Best result:** a **PNG with a transparent background** (cut your pet out first with your phone's "lift subject" / "remove background" tool). Ordinary photos work too — plain backgrounds are removed automatically.
+<p align="center">
+  <img alt="One-time purchase" src="https://img.shields.io/badge/one--time-purchase-ffcc33?style=flat-square&labelColor=2b1d33">
+  <img alt="No subscription" src="https://img.shields.io/badge/no-subscription-ff5d8f?style=flat-square&labelColor=2b1d33">
+  <img alt="No account" src="https://img.shields.io/badge/no-account-5cc45a?style=flat-square&labelColor=2b1d33">
+  <img alt="Photo stays on your computer" src="https://img.shields.io/badge/photo-stays%20on%20your%20computer-4285F4?style=flat-square&labelColor=2b1d33">
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📷 Photo Pet</h3>
+      <b>Your real pet, living in your tabs.</b><br>
+      Upload a photo of your dog, cat, bunny or bird and keep it as a cute cut-out <b>sticker</b> or turn it into <b>pixel art</b> that matches the other pets. Tell Pet Pixi what kind of pet it is and it trots, hops, flies or slithers to match.
+    </td>
+    <td width="50%" valign="top">
+      <h3>👗 The full Wardrobe</h3>
+      <b>A new look for every mood.</b><br>
+      81 colour coats (black cat, golden retriever, blue dino…), hoodies, tuxedos and a bumblebee costume, angel, bat and fairy wings, a hero cape, bow ties and pearls, 17 hats from wizard to pirate, and cool shades.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎀 Dress it just right</h3>
+      <b>Your photo, your styling.</b><br>
+      Drag bows, hats, flowers and the bedtime nightcap to the perfect spot on your Photo Pet, then resize and tilt them until it looks just like your pet.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐾 A bigger family</h3>
+      <b>Room for everyone.</b><br>
+      Keep up to <b>10 pets</b> at once instead of 5, and watch them all make friends, play tag and snuggle up together at night.
+    </td>
+  </tr>
+</table>
+
+### Free vs Pro
+
+Pet Pixi is free and complete on its own. Pro adds your own pet and a lot more style.
+
+| | Free | Pro ★ |
+|---|:---:|:---:|
+| 27 hand-drawn pixel pets | ✅ | ✅ |
+| Feed, pet, play ball, drag & drop | ✅ | ✅ |
+| Bond levels 1–10 + 9 free bond rewards | ✅ | ✅ |
+| Friends & meetups, day & night, free roam | ✅ | ✅ |
+| Pets at once | 5 | **10** |
+| 📷 **Photo Pet** — your own pet in your tabs | — | ✅ |
+| 🎨 **81 colour coats** | — | ✅ |
+| 👕 **Outfits, wings, capes, 17 hats, shades** | — | ✅ |
+| 🎀 **Place, resize & tilt accessories on your photo** | — | ✅ |
+
+<details>
+<summary><b>📸 Tips for the best Photo Pet</b></summary>
+
+- **Best result:** a **PNG with a transparent background** (cut your pet out first with your phone's "lift subject" / "remove background" tool). Ordinary photos work too — plain backgrounds are removed automatically.
 - 🔒 **Your photo never leaves your computer.** Everything is processed inside the extension; only the small finished pet is kept.
-- 🐕 **Walks like your pet:** tell it what kind of pet it is — dog, cat, bunny, bird, flying, duck, hamster, turtle or snake/fish — and it trots, hops, struts, flies or slithers to match. You can change it later.
-- 👗 **A whole wardrobe:** 81 colour coats (black cat, golden retriever, albino rat, blue dino…), hoodies, sweaters, raincoats, tuxedos and bee or ghost costumes, angel, bat, butterfly and fairy wings, a hero cape, bow ties and pearls, 17 hats from wizard to pirate, and shades, monocles and eye patches. Try anything on in the Wardrobe tab.
-- 🎀 **Dress it your way:** drag bows, hats, flowers and the nightcap to the perfect spot on your photo, and make them bigger or smaller.
-- 🐾 **A bigger family:** keep up to **10 pets** instead of 5.
+- 🐕 **Kinds of pet:** dog, cat, bunny, bird, flying, duck, hamster, turtle or snake/fish. You can change it later from the pet card.
+</details>
 
-**How buying works** — payments by [Dodo Payments](https://dodopayments.com), who handle checkout, receipts, taxes and refunds:
-1. Open the Pet Pixi popup → **Pro ★** → **Unlock Pro** (the current price is shown there). Or tap any ★ Pro item in the Wardrobe.
+### 💛 Get Pro in a minute
+
+Payments are handled by [Dodo Payments](https://dodopayments.com), who take care of checkout, receipts, taxes and refunds.
+
+1. [Install Pet Pixi](https://chromewebstore.google.com/detail/fgafahmolfgajejjdmeoimapeojnfipf?utm_source=github&utm_medium=readme) (free), open the popup → **Pro ★** → **Unlock Pro** (the current price is shown there). Or tap any ★ Pro item in the Wardrobe.
 2. Pay on the secure Dodo Payments checkout. Your **license key** arrives by email.
 3. Paste the key into the popup (**Pro ★** → *Already bought Pro? Enter your key*) → **Activate**. Done — no sign-up, no password.
 
 ▶ **[Watch how it works (1 min)](assets/howto-pro.mp4)**
 
-Pet Pixi checks your key with Dodo Payments once a day. If you're offline, Pro keeps working (for up to 30 days without a check).
+Pet Pixi is made by one indie developer — every Pro unlock helps keep it ad-free and growing with new pets and outfits. Thank you! 💖
+
+<sub>Pet Pixi checks your key with Dodo Payments once a day. If you're offline, Pro keeps working (for up to 30 days without a check). Every pet you adopted stays yours, Pro or not.</sub>
 
 ---
 
@@ -223,11 +304,12 @@ Full privacy policy: **[PRIVACY.md](PRIVACY.md)**
 
 ## 📦 Install
 
-<p>
-  <b>Chrome Web Store:</b> <i>coming soon</i> — follow <a href="https://github.com/ThevinMalaka/pet-pixi-chrome-extension">github.com/ThevinMalaka/pet-pixi-chrome-extension</a> for the launch.
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/fgafahmolfgajejjdmeoimapeojnfipf?utm_source=github&utm_medium=readme"><img alt="Get Pet Pixi on the Chrome Web Store" src="https://img.shields.io/badge/Get%20Pet%20Pixi-Chrome%20Web%20Store-ff5d8f?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4285F4" height="44"></a><br>
+  <sub>Free · no account · no ads</sub>
 </p>
 
-1. Click **Add to Chrome** on the Chrome Web Store page.
+1. Open **[Pet Pixi on the Chrome Web Store](https://chromewebstore.google.com/detail/fgafahmolfgajejjdmeoimapeojnfipf?utm_source=github&utm_medium=readme)** and click **Add to Chrome**.
 2. The welcome page opens — pick your first pet and give it a name.
 3. Open any website and look down. Your new friend is already exploring. 🎉
 
@@ -252,6 +334,18 @@ Ideas welcome — open an issue! 💡
 ---
 
 ## ❓ FAQ
+
+<details>
+<summary><b>How do I get a pixel pet in my Chrome browser?</b></summary>
+
+Install <a href="https://chromewebstore.google.com/detail/fgafahmolfgajejjdmeoimapeojnfipf?utm_source=github&utm_medium=readme">Pet Pixi from the Chrome Web Store</a>, pick a pet on the welcome page and give it a name. Open any website and your pet is walking along the bottom of the tab.
+</details>
+
+<details>
+<summary><b>Can I turn a photo of my own pet into a pixel pet?</b></summary>
+
+Yes — that's Photo Pet, part of Pet Pixi Pro (one-time purchase). Upload a photo of your dog, cat, bunny, bird or any pet, keep it as a cut-out sticker or turn it into pixel art, and it lives in your browser tabs like the other pets. The photo is processed on your computer and never uploaded.
+</details>
 
 <details>
 <summary><b>Why don't pets appear on the New Tab page?</b></summary>
@@ -299,6 +393,8 @@ Right-click the page → *Hide pets on this site*, or use the pet's ✕ button. 
 
 ## 💌 Support
 
+Enjoying Pet Pixi? A quick ⭐ review on the **[Chrome Web Store](https://chromewebstore.google.com/detail/fgafahmolfgajejjdmeoimapeojnfipf?utm_source=github&utm_medium=readme)** helps other people find their new pixel friend.
+
 Questions, bugs or pet ideas: **[github.com/ThevinMalaka/pet-pixi-chrome-extension](https://github.com/ThevinMalaka/pet-pixi-chrome-extension)** (open an issue) or email **[thevinmalaka@gmail.com](mailto:thevinmalaka@gmail.com)**.
 
 ## 📄 License
@@ -306,5 +402,5 @@ Questions, bugs or pet ideas: **[github.com/ThevinMalaka/pet-pixi-chrome-extensi
 © 2026 Pet Pixi. All rights reserved. The Pet Pixi name, pixel art and software may not be copied, modified, redistributed or sold without written permission.
 
 <p align="center">
-  <a href="https://github.com/ThevinMalaka/pet-pixi-chrome-extension"><sub>🌐 github.com/ThevinMalaka/pet-pixi-chrome-extension</sub></a> · <a href="mailto:thevinmalaka@gmail.com"><sub>✉️ thevinmalaka@gmail.com</sub></a> · <sub>Made with 💖 and lots of tiny pixels.</sub>
+  <a href="https://chromewebstore.google.com/detail/fgafahmolfgajejjdmeoimapeojnfipf?utm_source=github&utm_medium=readme"><sub>🧩 Add to Chrome</sub></a> · <a href="https://github.com/ThevinMalaka/pet-pixi-chrome-extension"><sub>🌐 github.com/ThevinMalaka/pet-pixi-chrome-extension</sub></a> · <a href="mailto:thevinmalaka@gmail.com"><sub>✉️ thevinmalaka@gmail.com</sub></a> · <sub>Made with 💖 and lots of tiny pixels.</sub>
 </p>
