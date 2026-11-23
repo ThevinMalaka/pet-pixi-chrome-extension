@@ -27,12 +27,13 @@
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/fgafahmolfgajejjdmeoimapeojnfipf?utm_source=github&utm_medium=readme"><b>🧩 Add to Chrome</b></a> ·
   <a href="https://github.com/ThevinMalaka/pet-pixi-chrome-extension"><b>🌐 GitHub</b></a> ·
+  <a href="#-whats-new-in-104">What's new</a> ·
   <a href="#-how-to-videos">Videos</a> ·
   <a href="#-install">Install</a> ·
   <a href="#-features">Features</a> ·
   <a href="#-wardrobe">Wardrobe</a> ·
   <a href="#-bond-levels--daily-care">Bond levels</a> ·
-  <a href="#-pet-pixi-pro--photo-pet--wardrobe"><b>⭐ Pro</b></a> ·
+  <a href="#-pet-pixi-pro--photo-pet-wardrobe--ultra-hd"><b>⭐ Pro</b></a> ·
   <a href="#-privacy">Privacy</a> ·
   <a href="#-faq">FAQ</a>
 </p>
@@ -44,13 +45,26 @@
 Pet Pixi is a free **virtual pet Chrome extension**. It puts a tiny **pixel pet** at the bottom of every browser tab — a little desktop companion that walks, naps, chases balls and waits for snacks while you work, study or browse.
 
 - **Pick a pixel pet** — 27 hand-drawn friends: cat, dog, bunny, fox, panda, frog, dino, turtle, snail and more.
-- **Or bring your own pet** — upload a photo of your real dog, cat, bunny or bird and Pet Pixi turns it into a **pixel art pet** (or a cute cut-out sticker) that lives in your tabs. Your photo is processed on your computer and never uploaded. *(Photo Pet is part of [Pet Pixi Pro](#-pet-pixi-pro--photo-pet--wardrobe), a one-time purchase.)*
+- **Or bring your own pet** — upload a photo of your real dog, cat, bunny or bird and Pet Pixi turns it into a **pixel art pet** (or a cute cut-out sticker) that lives in your tabs. Your photo is processed on your computer and never uploaded. *(Photo Pet is part of [Pet Pixi Pro](#-pet-pixi-pro--photo-pet-wardrobe--ultra-hd), a one-time purchase.)*
+- **See them in soft 3D** — with **Ultra HD** every pet becomes a little glossy 3D toy, outfits included. *(Pro)*
 - **Cozy, never needy** — pets never die, run away or get sick. No account, no sign-in, no ads.
 - **Works everywhere you browse** — Google Chrome, Microsoft Edge, Brave and Opera.
 
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/fgafahmolfgajejjdmeoimapeojnfipf?utm_source=github&utm_medium=readme"><b>🧩 Add Pet Pixi to Chrome — free</b></a>
 </p>
+
+---
+
+## 🆕 What's new in 1.0.4
+
+- ✨ **Ultra HD** *(Pro)* — a new pixel style that turns every pet into a soft **3D toy**: rounded bodies lit from above, glossy highlights, soft shadows and shiny eyes, drawn at 4× the detail. Hats, glasses, collars, wings, capes and outfits get the same 3D look.
+- ⚽ **Play ball as much as you like** — no more waiting between games. Bond XP still comes from 3 games a day, so levels grow at the same steady pace.
+- 🎨 **30 toy balls** — beach balls, tennis balls, stars, stripes, polka dots, two-tone, hoops and more, in lots of colours. Every throw is a different ball.
+- 🚀 **Bigger throws** — pets throw the ball right across the screen and race after it.
+- 🗂️ **Balls and food follow you between tabs** — switch tabs in the same window and your pet is still chasing its ball or finishing its snack.
+- 💬 **Clear messages** — a readable note above your pet says when it's full, when the next XP game is ready and more.
+- ⚡ **The popup opens instantly**, even with lots of Ultra HD pets.
 
 ---
 
@@ -106,6 +120,13 @@ Every pet has its own favourite food 🍖 — feed them that and they're extra h
 - **Click** to pet it, or **stroke** it by moving your mouse back and forth over it.
 - **Drag & drop** your pet anywhere — it tumbles back down with a bounce.
 
+### ⚽ Play ball
+- **Play as much as you like** — hit ⚽ and your pet runs after the ball, every time.
+- **30 toy balls** — classic, beach, stripes, polka dots, stars, tennis, hoops, two-tone and patches, in lots of colours. Each throw picks a different one, so with several pets you can tell whose ball is whose.
+- **Big throws** — a pet on the left throws to the right (and back again), right across the screen.
+- 🎲 **Surprise toss** — tap **Toss** at the top of the Pet Pixi popup and a ball drops from the top of the page at a random spot. A random pet spots it and races to catch it. It's just for fun: no XP and no limits, so toss as often as you like.
+- Balls and snacks **wait for their pet**, and keep going when you switch to another tab in the same window.
+
 ### 🤝 Friends & meetups
 When two pets bump into each other, they play out a little scene:
 
@@ -143,10 +164,11 @@ Dress your pets in the **Wardrobe** tab: pick a pet, then tap through **Hats · 
 - **Free bond rewards** — one new item at every bond level: 🎀 bow · 🔔 collar & bell · 🌸 flower · 🧣 bandana · 🥳 party hat · 😊 blush · 👑 crown · 🧶 scarf · ⭐ star.
 - **With Pro** — 81 colour coats, outfits (hoodie, striped sweater, raincoat, denim jacket, tuxedo, bumblebee, ghost), wings (angel, bat, butterfly, fairy), a hero cape and a balloon, bow ties, pearls, flower leis and gold chains, 17 hats from wizard to pirate, and shades, monocles and eye patches.
 - Everything fits all 27 pets, and your pets wear their look on every website.
+- In **Ultra HD** *(Pro)* every item gets the same smooth edges and 3D lighting as your pet.
 
 ### 🎨 Make it yours
 - **Pet size** from tiny to big.
-- **Pixel style:** *HD pixels* (smooth, shaded, sparkly eyes) or *Retro* (chunky classic pixels).
+- **Pixel style:** *HD pixels* (smooth, shaded, sparkly eyes), *Retro* (chunky classic pixels), or *Ultra HD* with Pro (soft 3D pets with real light, shade and glossy highlights, at 4× the detail).
 - **Popup theme:** follows your computer's light or dark mode, or pick one.
 - **Name** every pet and see how many days you've been together.
 
@@ -167,7 +189,7 @@ Bond shows how close you and a pet are. It grows from **caring a little every da
 | Activity | XP | Daily limit |
 |---|---|---|
 | 🍖 Feed when hungry | +3 (+5 with favourite food) | 3 meals, 45 min apart — full pets politely refuse |
-| ⚽ Play ball | +4 | 3 games — pets catch their breath for 3 min between games |
+| ⚽ Play ball | +4 | Play as much as you like — 3 games a day give XP, 3 min apart |
 | ❤️ Pet / stroke | +1 | 10 cuddles |
 | ✅ **Daily care goal** — 1 meal + 1 game + 5 cuddles | **+5 bonus** | once a day |
 | 📅 Daily visit | +5, plus +2 per day in a row (up to +10) | once a day |
@@ -191,10 +213,10 @@ Bond rewards are always free. Unlocked items appear in the **Wardrobe** tab — 
 
 ---
 
-## ⭐ Pet Pixi Pro — Photo Pet & Wardrobe
+## ⭐ Pet Pixi Pro — Photo Pet, Wardrobe & Ultra HD
 
 <p align="center">
-  <b>Your pet, your style.</b> Bring your <i>real</i> pet into your browser, and dress up every pet you love.
+  <b>Your pet, your style.</b> Bring your <i>real</i> pet into your browser, dress up every pet you love, and see them all in soft 3D.
 </p>
 
 <p align="center">
@@ -233,16 +255,28 @@ Bond rewards are always free. Unlocked items appear in the **Wardrobe** tab — 
       Keep up to <b>10 pets</b> at once instead of 5, and watch them all make friends, play tag and snuggle up together at night.
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>✨ Ultra HD</h3>
+      <b>Your pets, in soft 3D.</b><br>
+      Switch on Ultra HD in Settings and every pet becomes a little 3D toy: rounded bodies lit from above, glossy highlights, soft shadows and shiny eyes, drawn at four times the detail. Hats, glasses, wings and outfits get the 3D look too.
+    </td>
+  </tr>
 </table>
+
+<p align="center">
+  <img src="assets/ultra-hd.png" alt="The same pets and outfits in HD (top row) and in Ultra HD (bottom row): a crowned tabby cat, a cowboy dog with a bow tie, a frog with angel wings, a panda in shades and a hoodie, a wizard dino and a bunny with fairy wings and glasses. In Ultra HD they look like soft, glossy 3D toys" width="100%"><br>
+  <sub>Top: HD · Bottom: <b>Ultra HD</b> ✨</sub>
+</p>
 
 ### Free vs Pro
 
-Pet Pixi is free and complete on its own. Pro adds your own pet and a lot more style.
+Pet Pixi is free and complete on its own. Pro adds your own pet, a lot more style and Ultra HD.
 
 | | Free | Pro ★ |
 |---|:---:|:---:|
 | 27 hand-drawn pixel pets | ✅ | ✅ |
-| Feed, pet, play ball, drag & drop | ✅ | ✅ |
+| Feed, pet, drag & drop — and unlimited ball play with 30 toy balls | ✅ | ✅ |
 | Bond levels 1–10 + 9 free bond rewards | ✅ | ✅ |
 | Friends & meetups, day & night, free roam | ✅ | ✅ |
 | Pets at once | 5 | **10** |
@@ -250,6 +284,7 @@ Pet Pixi is free and complete on its own. Pro adds your own pet and a lot more s
 | 🎨 **81 colour coats** | — | ✅ |
 | 👕 **Outfits, wings, capes, 17 hats, shades** | — | ✅ |
 | 🎀 **Place, resize & tilt accessories on your photo** | — | ✅ |
+| ✨ **Ultra HD** — soft 3D pets (and outfits) with real light & gloss | — | ✅ |
 
 <details>
 <summary><b>📸 Tips for the best Photo Pet</b></summary>
@@ -263,9 +298,10 @@ Pet Pixi is free and complete on its own. Pro adds your own pet and a lot more s
 
 Payments are handled by [Dodo Payments](https://dodopayments.com), who take care of checkout, receipts, taxes and refunds.
 
-1. [Install Pet Pixi](https://chromewebstore.google.com/detail/fgafahmolfgajejjdmeoimapeojnfipf?utm_source=github&utm_medium=readme) (free), open the popup → **Pro ★** → **Unlock Pro** (the current price is shown there). Or tap any ★ Pro item in the Wardrobe.
+1. [Install Pet Pixi](https://chromewebstore.google.com/detail/fgafahmolfgajejjdmeoimapeojnfipf?utm_source=github&utm_medium=readme) (free), open the popup → **Pro ★** → **Unlock Pro** (the current price is shown there). Or tap any ★ Pro item in the Wardrobe, or **Ultra HD ★** in Settings.
 2. Pay on the secure Dodo Payments checkout. Your **license key** arrives by email.
 3. Paste the key into the popup (**Pro ★** → *Already bought Pro? Enter your key*) → **Activate**. Done — no sign-up, no password.
+4. Turn on 3D pets: **Settings → Pixel style → Ultra HD ★**.
 
 ▶ **[Watch how it works (1 min)](assets/howto-pro.mp4)**
 
@@ -322,6 +358,8 @@ Works in Chrome and other Chromium browsers (Edge, Brave, Opera).
 ## 🗺 Roadmap
 
 - [x] A wardrobe with outfits, wings, hats and coats
+- [x] Ultra HD: soft 3D pets
+- [x] Unlimited ball play with 30 toy balls
 - [ ] Seasonal events (snowy days, spooky nights)
 - [ ] A little pet diary
 - [ ] Export / import your pets
@@ -368,7 +406,13 @@ No — on purpose. Pets live only in this Chrome profile, with no account. Anoth
 <details>
 <summary><b>Why didn't I get XP when I clicked Feed again?</b></summary>
 
-Bond grows from daily care, not fast clicking: full pets refuse food, meals give XP up to 3 times a day, and pets rest between games. The popup tells you exactly why and when.
+Bond grows from daily care, not fast clicking: full pets refuse food, meals give XP up to 3 times a day, and 3 games of ball a day give XP (3 min apart). You can still play ball as much as you like — extra games just don't add XP. The popup and a note above your pet tell you exactly why and when. Want to play without thinking about XP? The **Toss** ball at the top of the popup is always just for fun.
+</details>
+
+<details>
+<summary><b>What is Ultra HD?</b></summary>
+
+A Pet Pixi Pro pixel style (Settings → Pixel style → **Ultra HD ★**). Every pet is drawn at four times the detail and lit like a little 3D toy — rounded body, light from above, glossy highlights, soft shadows and shiny eyes — and hats, glasses, wings and outfits match. You can switch back to HD or Retro any time. Without Pro you can preview it in Settings.
 </details>
 
 <details>
