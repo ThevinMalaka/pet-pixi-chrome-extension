@@ -27,7 +27,7 @@
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/fgafahmolfgajejjdmeoimapeojnfipf?utm_source=github&utm_medium=readme"><b>🧩 Add to Chrome</b></a> ·
   <a href="https://github.com/ThevinMalaka/pet-pixi-chrome-extension"><b>🌐 GitHub</b></a> ·
-  <a href="#-whats-new-in-104">What's new</a> ·
+  <a href="#-whats-new-in-106">What's new</a> ·
   <a href="#-how-to-videos">Videos</a> ·
   <a href="#-install">Install</a> ·
   <a href="#-features">Features</a> ·
@@ -56,15 +56,54 @@ Pet Pixi is a free **virtual pet Chrome extension**. It puts a tiny **pixel pet*
 
 ---
 
-## 🆕 What's new in 1.0.4
+## 🆕 What's new in 1.0.6
 
-- ✨ **Ultra HD** *(Pro)* — a new pixel style that turns every pet into a soft **3D toy**: rounded bodies lit from above, glossy highlights, soft shadows and shiny eyes, drawn at 4× the detail. Hats, glasses, collars, wings, capes and outfits get the same 3D look.
-- ⚽ **Play ball as much as you like** — no more waiting between games. Bond XP still comes from 3 games a day, so levels grow at the same steady pace.
-- 🎨 **30 toy balls** — beach balls, tennis balls, stars, stripes, polka dots, two-tone, hoops and more, in lots of colours. Every throw is a different ball.
-- 🚀 **Bigger throws** — pets throw the ball right across the screen and race after it.
-- 🗂️ **Balls and food follow you between tabs** — switch tabs in the same window and your pet is still chasing its ball or finishing its snack.
-- 💬 **Clear messages** — a readable note above your pet says when it's full, when the next XP game is ready and more.
-- ⚡ **The popup opens instantly**, even with lots of Ultra HD pets.
+- 🦵 **Pets really walk** — in HD and Ultra HD, legs, body, head and tail move on their own: a proper four-legged walk, a gallop when they run, a wagging tail and gentle breathing when they rest.
+- ↔️ **Front or side view** — cat, dog, fox, bunny, panda and raccoon can also walk in profile. Pick it per pet on its card.
+- 💀 **A new skeleton** with swinging arms, and smoother, cleaner edges on every pet.
+- 🧹 **A tidier popup** — neater pet card buttons and wardrobe pet picker.
+
+### 🌳 Version history
+
+```text
+Pet Pixi
+├── 1.0.6  ← latest
+│   ├── 🦵 Pets really walk: legs, head and tail move, gallop when running, tail wags at rest
+│   ├── ↔️ Front / side view for cat, dog, fox, bunny, panda and raccoon
+│   ├── 💀 New skeleton with swinging arms
+│   └── ✨ Smoother, cleaner edges on every pet + a tidier popup
+├── 1.0.5
+│   ├── 🍽️ Pets lower their heads to eat, bite by bite, with little crumbs
+│   └── ⚽ They pick the ball up in their mouth and carry it
+├── 1.0.4
+│   ├── ✨ Ultra HD (Pro): soft 3D pets, outfits included
+│   ├── ⚽ Unlimited ball play, 30 toy balls, bigger throws
+│   ├── 🎲 "Toss" ball from the top of the popup
+│   ├── 🗂️ Balls and food follow you between tabs
+│   ├── 💬 Clear notes when a pet is full or needs a rest
+│   └── ⚡ The popup opens instantly
+├── 1.0.3
+│   └── 🔧 Stats choice from the welcome page is respected right after you adopt
+├── 1.0.2
+│   ├── 💳 Pro checkout moved to Dodo Payments (one-time purchase, license key by email)
+│   └── 🔑 Daily license check, with 30 days of offline grace
+├── 1.0.1
+│   ├── 👗 Wardrobe (Pro): coats, hats, outfits, wings and more
+│   ├── 🐾 Up to 10 pets with Pro
+│   ├── 🐕 Photo Pets walk like their kind: trot, hop, strut, fly or slither
+│   ├── 🌗 Light / dark popup theme
+│   ├── ❗ The popup shows who is hungry, with "Feed all"
+│   ├── 😊 Moods & energy: happy pets are lively, hungry ones get sleepy
+│   ├── 🪟 Each Chrome window keeps its own pet spots
+│   └── 🧭 Rounded corners in free roam
+└── 1.0.0
+    ├── 🐶 27 pixel pets that live at the bottom of every tab
+    ├── 🍪 Feed, pet, play ball, drag & drop
+    ├── ❤️ Bond levels with free accessory rewards, daily streak
+    ├── 🤝 Friends & meetups, 🌙 day & night
+    ├── 🧭 Free roam and hide on a tab / site / everywhere
+    └── 📷 Photo Pet (Pro)
+```
 
 ---
 
@@ -168,6 +207,7 @@ Dress your pets in the **Wardrobe** tab: pick a pet, then tap through **Hats · 
 
 ### 🎨 Make it yours
 - **Pet size** from tiny to big.
+- **Front or side view:** cat, dog, fox, bunny, panda and raccoon can also walk in profile (pick it on the pet's card).
 - **Pixel style:** *HD pixels* (smooth, shaded, sparkly eyes), *Retro* (chunky classic pixels), or *Ultra HD* with Pro (soft 3D pets with real light, shade and glossy highlights, at 4× the detail).
 - **Popup theme:** follows your computer's light or dark mode, or pick one.
 - **Name** every pet and see how many days you've been together.
@@ -360,6 +400,7 @@ Works in Chrome and other Chromium browsers (Edge, Brave, Opera).
 - [x] A wardrobe with outfits, wings, hats and coats
 - [x] Ultra HD: soft 3D pets
 - [x] Unlimited ball play with 30 toy balls
+- [x] Real walking animations and side views
 - [ ] Seasonal events (snowy days, spooky nights)
 - [ ] A little pet diary
 - [ ] Export / import your pets
